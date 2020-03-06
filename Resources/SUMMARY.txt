@@ -1,0 +1,50 @@
+GO IS FASTER THAN JAVA
+GO RUNS DIRECTLY ON THE MACHINE WHILE JAVA USE A VIRTUAL MACHINE FOR RUNNING ITS CODE
+JAVA TAKES A WHILE TO INITIALIZE
+THE APPP OF MENTOR SHIP IS NOT SO HEAVY IN THE STRUCTURE BUT ACCORDING TO ME NEEDS TO BE QUICK
+GO IS GOOD AT MEMORY MANAGEMENT
+JAVA MAKES THE DEVELOPMENT QUICKER
+
+ava is enterprise development language, Go is a system programming language. 
+
+VERY LITTLE SUPPORT AND SOURCES IN GO COMPARE TO JAVA
+GO IS AN EARLY LANGUAGE WHICH STILL HAS TO PROVE ITS UTILITY.
+
+DOMAIN DRIVEN DESIGN APPROACH
+Use Event Storming to define your Application goals
+	=> generate ideas on events, going from the start
+Identify Your Client’s Needs With Actors, Use Cases, and Entities
+	=> Use case, what the actors are trying to do
+		=> define the goals
+		=> capture interactions via a use case description
+
+    Invite stakeholders and developers
+    Allocate space for ideas
+    Identify domain events
+    Connect domain events
+    Determine triggers
+
+	=> Entities: Defining the Concepts in Your System
+
+Formalize Your Domain Model With a Use Case Diagram
+	=> Designing a Use Case Diagram
+		=> Identify the actors
+		=> Identify the Use cases (what each actor does)
+		=> add relationships
+Generate Domain Vocabulary With a Class Diagram
+	=> Identify the nouns from the Use Case description
+	=> Represent Your Nouns as Classes or Attributes
+
+Update Our Use Case Diagram
+
+Use Integration to Define Your Domain Model
+Interpret Your Domain Model for Implementation: Key Guidelines
+	=> Be Aware of Separate Domains
+	=> Define Entities in Order to Represent Unique Objects
+	=> Identify Value Objects in Your Model 
+	=> Identify Aggregate Objects to Glue Things Together
+    Entity objects - those that are unique in the system. 
+
+    Value objects - those that do not require uniqueness.
+
+    Aggregate objects - that tie entity and value object together, to complete a use case.
